@@ -60,4 +60,4 @@ The area of the Rectangle is: 24.00
 ---
 
 ## 🏷️ Author
-**Hasan Al-Mahdi**
+**Hasan Al Mahdi**
